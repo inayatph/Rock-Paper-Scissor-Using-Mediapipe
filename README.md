@@ -25,3 +25,6 @@
 
 ![rock](https://github.com/inayatph/Rock-Paper-Scissor-Using-Mediapipe/assets/164138014/d3ed5990-c049-42b8-806b-e82351d6e3b6)
 
+![paper](https://github.com/inayatph/Rock-Paper-Scissor-Using-Mediapipe/assets/164138014/6f792f81-0b67-4c82-bde6-712d92d5f2da)
+
+
