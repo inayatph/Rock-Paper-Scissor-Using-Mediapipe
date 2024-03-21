@@ -22,3 +22,6 @@
 - Position your hand in front of the webcam or provide a video file as input.
 - Perform rock, paper, or scissors gestures with your hand.
 - The system will detect and classify the gestures in real-time and display the result.
+
+![rock](https://github.com/inayatph/Rock-Paper-Scissor-Using-Mediapipe/assets/164138014/d3ed5990-c049-42b8-806b-e82351d6e3b6)
+
